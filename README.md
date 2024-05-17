@@ -57,14 +57,14 @@ Here is an image with the exact location you need to put in the key.
 
 ![image](https://github.com/emiliofigueroa1/find-distance-on-earth/assets/157066769/f0b23f81-8869-454a-bea0-bf781d57b3ff)
 
-This is attached to a String variable so it will stay an error until you implement it in WITH quotations aroud the key.
+This is attached to a String variable so it will stay an error until you implement it in WITH quotations around the key.
 Once this occurs ALL of the aspects of the java files are going to be able to run because of these key componet.
 
 MAKE SURE TO KEEP COMPILING AND ERROR CHECKING ALL FOUR FILES!!
 
 # Getting It Running
 
-Now that you have all of the files in the right areas and creating the correct enviroment for the program to run you can actually run it.
+Now that you have all of the files in the right areas and creating the correct enviorment for the program to run you can actually run it.
 The main interface this project runs on is the Java Swing GUI. This all can be found in the file ---> FindDistance.java. In here you will
 find all of the componets that create the look and functionality of the Swing GUI. After looking this over you should be able to get it started.
 At the bottom of this java file you will see a main method which is very small but a quick run on the project will get it active!
