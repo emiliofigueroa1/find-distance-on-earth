@@ -96,5 +96,11 @@ Now you are able to use this project freely and enjoy my project!
 ![image](https://github.com/emiliofigueroa1/find-distance-on-earth/assets/157066769/41579de0-c01d-4aa3-99b0-8a7e2e285c03)
 
 
+# WARNINGS
+
+Some cities may not work due to the process of converting the JSON data into Strings for java to use correctly.
+ASWELL as cities with the same name. For Example, Newington will bring you to the United Kingdom Newington not the Connecticut.
+So please keep this in mind and use with this in mind :)
+
 
 
