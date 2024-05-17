@@ -100,7 +100,7 @@ Now you are able to use this project freely and enjoy my project!
 
 Some cities may not work due to the process of converting the JSON data into Strings for java to use correctly.
 ASWELL as cities with the same name. For Example, Newington will bring you to the United Kingdom Newington not the Connecticut.
-So please keep this in mind and use with this in mind :)
+So please keep this in mind when using :)
 
 
 
