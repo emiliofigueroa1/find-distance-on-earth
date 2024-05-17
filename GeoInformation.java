@@ -43,7 +43,7 @@ public class GeoInformation {
                 String lat = jsonString.substring(startIndex, endIndex).trim();
                 return lat;
             } else {
-                return "Longitude not found";
+                return "Latitude not found";
             }
         }
     }
@@ -77,7 +77,7 @@ public class GeoInformation {
                 String lon = jsonString.substring(startIndex, endIndex).trim();
                 return lon;
             } else {
-                return "Latitude not found";
+                return "Longitude not found";
             }
         }
     }
