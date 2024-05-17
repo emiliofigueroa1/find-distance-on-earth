@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 
 public class GeoInformation {
-    private String apiKey = "6bbea633e2abbdceff1fcb5cb8b2be23";
+    private String apiKey = /* insert API URL here! */ ;
     private String startCity;
     private String endCity;
 
