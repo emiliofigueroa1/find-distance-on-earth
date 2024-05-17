@@ -68,7 +68,7 @@ public class GeoInformation {
             }
             in.close();
 
-            // Parse JSON response and extract latitude
+            // Parse JSON response and extract longitude
             String jsonString = response.toString();
             int lonIndex = jsonString.indexOf("\"lon\":");
             if (lonIndex != -1) {
