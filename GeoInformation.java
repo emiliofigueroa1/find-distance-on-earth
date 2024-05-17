@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 
 public class GeoInformation {
-    private String apiKey = "6bbea633e2abbdceff1fcb5cb8b2be23";
+    private String apiKey = /* add your API key */ ;
     private String startCity;
     private String endCity;
 
